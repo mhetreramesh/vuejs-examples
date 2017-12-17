@@ -1,2 +1,2 @@
-# vuejs-examples
-vuejs examples
+# Vue.js Examples
+Vue.js Examples
